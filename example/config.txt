@@ -1,0 +1,2 @@
+Prefix plugins/KFold/example/
+Plugin KFold inputfile parameters.txt outputfile model.json

@@ -1,0 +1,5 @@
+stat1	output.stat1.train.tsv
+origin	output.origin.train.tsv
+nestimators	1000
+nsplit	5
+randomstate	7
